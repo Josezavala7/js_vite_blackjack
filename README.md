@@ -21,7 +21,7 @@
     npm run dev
     ```
 
-4. Abre el proyecto en tu navegador en [http://localhost:5173](http://localhost:5173).
+4. Abre el proyecto en tu navegador en [http://localhost:5173](http://localhost:5173) o en el puerto que aparezca al ejecutar el comando.
 
 ## Producción
 ### Generar Build
